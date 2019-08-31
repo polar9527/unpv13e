@@ -29,6 +29,8 @@ static char rcsid[] = "$Id: inet_ntop.c,v 1.1.1.1 2002/11/14 03:33:35 fenner Exp
 #include <errno.h>
 #include <stdio.h>
 
+#define size_t socklen_t
+
 #define	IN6ADDRSZ	16
 #define	INT16SZ		 2
 

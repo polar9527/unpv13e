@@ -1,0 +1,9 @@
+/.idea/
+/lib/
+/libfree/
+/config.h
+/config.log
+/config.status
+/libunp.a
+/Make.defines
+/Makefile

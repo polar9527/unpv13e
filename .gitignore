@@ -7,3 +7,5 @@
 /libunp.a
 /Make.defines
 /Makefile
+*.o
+*.a
